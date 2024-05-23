@@ -1,6 +1,6 @@
 # TensorTime
 
-## Prerequisites
+Prerequisites
 
 To set up the environment for running the code, follow these steps:
 
